@@ -211,13 +211,6 @@ PDF_Convert.py
 - **Backup important files** before running the script
 - **Review the folder path** carefully to avoid processing unintended directories
 - **Check conversion results** before relying on automatic deletion
-
-## 📝 License
-
-This project is provided as-is for personal use. Modify and distribute as needed.
-
-## 🤝 Contributing
-
 Feel free to submit issues, fork the repository, and create pull requests for any improvements.
 
 ---
