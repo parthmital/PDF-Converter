@@ -212,8 +212,3 @@ PDF_Convert.py
 - **Review the folder path** carefully to avoid processing unintended directories
 - **Check conversion results** before relying on automatic deletion
 Feel free to submit issues, fork the repository, and create pull requests for any improvements.
-
----
-
-**Author**: Parth  
-**Last Updated**: 2024
