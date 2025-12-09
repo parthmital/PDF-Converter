@@ -1,6 +1,6 @@
 import os, comtypes.client
 
-FOLDER = "D:\\Downloads"
+FOLDER = r"D:\PARTH\UNFINISHED PROJECTS\Dataset Raw"
 
 
 def convert_docs(word_app, doc_files):
